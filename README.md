@@ -1,5 +1,5 @@
 # fscanCheck
-fscanCheck  对Fscan的扫描结果验证
+对Fscan的扫描结果验证
 
 ## 计划
 
